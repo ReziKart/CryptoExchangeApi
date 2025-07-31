@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Binance",
+    "balanceInEUR": 100000,
+    "balanceInBTC": 20,
+    "orders": [
+      {
+        "price": 29500,
+        "amount": 1.5,
+        "orderType": "Sell"
+      },
+      {
+        "price": 29700,
+        "amount": 2.0,
+        "orderType": "Sell"
+      },
+      {
+        "price": 29200,
+        "amount": 1.0,
+        "orderType": "Buy"
+      }
+    ]
+  },
+  {
+    "name": "Coinbase",
+    "balanceInEUR": 50000,
+    "balanceInBTC": 10,
+    "orders": [
+      {
+        "price": 29600,
+        "amount": 0.5,
+        "orderType": "Sell"
+      },
+      {
+        "price": 29800,
+        "amount": 1.5,
+        "orderType": "Sell"
+      },
+      {
+        "price": 29300,
+        "amount": 1.0,
+        "orderType": "Buy"
+      },
+      {
+        "price": 29100,
+        "amount": 2.0,
+        "orderType": "Buy"
+      }
+    ]
+  },
+  {
+    "name": "Kraken",
+    "balanceInEUR": 75000,
+    "balanceInBTC": 15,
+    "orders": [
+      {
+        "price": 29450,
+        "amount": 1.0,
+        "orderType": "Sell"
+      },
+      {
+        "price": 29300,
+        "amount": 2.5,
+        "orderType": "Sell"
+      },
+      {
+        "price": 29050,
+        "amount": 2.0,
+        "orderType": "Buy"
+      },
+      {
+        "price": 28900,
+        "amount": 1.5,
+        "orderType": "Buy"
+      }
+    ]
+  }
+]
